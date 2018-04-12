@@ -1,4 +1,4 @@
-import source.crnn_max as ModelSource
+import source.crnn_att as ModelSource
 import numpy as np
 import tensorflow as tf
 
